@@ -1,0 +1,4 @@
+# SQLite connection methods:
+# Python: sqlite3.connect('myapp.db')
+# Connection string: sqlite:////tmp/kavia/workspace/code-generation/minimal-todo-list-6279-6288/todo_database/myapp.db
+# File path: /tmp/kavia/workspace/code-generation/minimal-todo-list-6279-6288/todo_database/myapp.db
